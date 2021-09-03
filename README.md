@@ -27,6 +27,6 @@ Connect me on <a href="https://t.me/Im_Joz"><b>Telegram</b></a><br>
 or <a href="mailto:josekjames5@gmail.com"><b>mail</b></a> me.
 
 <i>Happy Coding!</i> 😊
-
+ 
 </div>
 <div align="center">
