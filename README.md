@@ -15,15 +15,20 @@
  <br/>
 
 
-## 🔥 Streak Stats
-<p align="left"><img src="https://github-readme-streak-stats.herokuapp.com?user=cyberianzed&theme=blueberry_duo&hide_border=true" alt="cyberianzed" height="170px"  /></p>
+<h2 align="center">Wanna Connect👋.</h2>
+<p align="center">
+  <a href="https://joss.my">Blog</a> •
+  <a href="https://x.com/joseK_James">Twitter</a>
+</p>
 
 
+- 💬 Ask me about **Entrepreneurship, App development, Content creation.**
+- 📫 How to reach me: [@josekjames](https://x.com/joseK_James) on Twitter
 
 
 <div align="center">
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Connect me on <a href="https://t.me/Im_Joz"><b>Telegram</b></a><br>
+Something important, ping me on <a href="https://t.me/Im_Joz"><b>Telegram</b></a><br>
 or <a href="mailto:josekjames5@gmail.com"><b>mail</b></a> me.
 
 <i>Happy Coding!</i> 😊
